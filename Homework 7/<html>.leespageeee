@@ -1,0 +1,20 @@
+<html>
+    <title>leespage</title>
+    <head></head>
+    <body bgcolor="lightgreen">
+       <span style="font-family: 'Courier New', Courier, monospace"
+       <span><h2>hi, my name is lee! i'm 18, i'm a bachelor in fine arts with a film concentration. i love movies, especially arthouse and experimental.</h2></span>
+
+        <span style="font-family:'Courier New', Courier, monospace"
+        <span><h2>these are my favorite movies</h2></span>
+        <span><ol>
+                <li>Under The Skin dir. Jonathan Glazer</li>
+                <li>Gummo dir. Harmony Korine</li>
+                <li>The Lighthouse dir. Robert Eggers</li>
+                <span style="font-family:'Courier New', Courier, monospace"
+        <span><h2>you can subscribe to my youtube <a href="https://www.youtube.com/channel/UCjaogZ4n7WolFbQXA-Wr00w">here</a>:</h2></span>
+        <span style="font-family: 'Courier New', Courier, monospace"
+        <span><h2>i make all kinds of videos when i'm not doing homework, i plan on using my degree to become a director and screenwriter!</h2></span>
+            
+        </body>
+</html>
